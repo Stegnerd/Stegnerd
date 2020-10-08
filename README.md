@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an Jeopardy based Android App written in Kotlin!
-- 🌱 I’m currently learning Kotlin/Android and a little bit of React so I can make a personal website!
-- 👯 I’m looking to collaborate on anything Android or Kotlin related
-- 🤔 I’m looking for help with Unit Testing in Android (particularlly observing LiveData in ViewModels w/ mocks/fakes)
+- 🔭 I’m currently working on an SwiftUI App for item collection in one of my favorite game series Disgaea
+- 🌱 I’m currently learning Swift/iOS development and a little bit of Angular so I can make a personal website!
+- 👯 I’m looking to collaborate on anything Android/Kotlin or Swift related
+- 🤔 I’m looking for help with proper structure/architecture patterns of iOS development
 - 💬 Ask me about Azure or .NET! (If I can't figure it out I will do my best to help you!)
 - 📫 How to reach me: dmstegner@gmail.com
 - 😄 Pronouns: He/Him
-- Here is my Cod::Stats -> https://codestats.net/users/dalton.stegner
+- Here is my Code::Stats -> https://codestats.net/users/dalton.stegner
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stegnerd&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
