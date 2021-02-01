@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an SwiftUI App for item collection in one of my favorite game series Disgaea
-- 🌱 I’m currently learning Swift/iOS development and a little bit of Angular so I can make a personal website!
-- 👯 I’m looking to collaborate on anything Android/Kotlin or Swift related
-- 🤔 I’m looking for help with proper structure/architecture patterns of iOS development
+- 🔭 I’m currently working on an Kotlin App for item collection in one of my favorite game series Disgaea
+- 🌱 I’m currently learning Kotlin/Android development!
+- 👯 I’m looking to collaborate on anything Android/Kotlin
+- 🤔 I’m looking for help with proper structure/architecture patterns of Android development
 - 💬 Ask me about Azure or .NET! (If I can't figure it out I will do my best to help you!)
 - 📫 How to reach me: dmstegner@gmail.com
 - 😄 Pronouns: He/Him
