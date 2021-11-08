@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an Kotlin App for item collection in one of my favorite game series Disgaea
-- 🌱 I’m currently learning Kotlin/Android development!
-- 👯 I’m looking to collaborate on anything Android/Kotlin
-- 🤔 I’m looking for help with proper structure/architecture patterns of Android development
+- 🔭 I’m currently working on an Kotlin project with an api, web, and kmp portion
+- 🌱 I’m currently playing around with kotlin and rust!
+- 👯 I’m looking to collaborate on anything Kotlin/Rust
 - 💬 Ask me about Azure or .NET! (If I can't figure it out I will do my best to help you!)
 - 📫 How to reach me: dmstegner@gmail.com
 - 😄 Pronouns: He/Him
