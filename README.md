@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an go/vue project that uses the wails library
-- 🌱 I’m currently playing around with kotlin and rust!
+- 🔭 I’m currently working on an rust/vue project that uses the Tauri library
+- 🌱 I’m currently playing around with Vue and rust!
 - 👯 I’m looking to collaborate on anything go/Rust
 - 💬 Ask me about go or Angular (If I can't figure it out I will do my best to help you!)
 - 📫 How to reach me: dmstegner@gmail.com
