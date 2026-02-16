@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an rust/vue project that uses the Tauri library
-- 🌱 I’m currently playing around with Vue and rust!
-- 👯 I’m looking to collaborate on anything go/Rust
+- 🔭 I’m currently working on an rust/svelte project that uses the Tauri library
+- 🌱 I’m currently playing around with Svelte/Rust and C!
+- 👯 I’m looking to collaborate on anything Go/Rust
 - 💬 Ask me about go or Angular (If I can't figure it out I will do my best to help you!)
 - 📫 How to reach me: dmstegner@gmail.com
 - 😄 Pronouns: He/Him
