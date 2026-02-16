@@ -7,8 +7,3 @@
 - 📫 How to reach me: dmstegner@gmail.com
 - 😄 Pronouns: He/Him
 - Here is my Code::Stats -> https://codestats.net/users/dalton.stegner
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stegnerd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stegnerd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
